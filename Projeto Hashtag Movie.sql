@@ -1,3 +1,11 @@
+-------------------- HASHTAG MOVIE - Case de Análise de Dados no SQL ---------------------------------
+
+--- A hashtagmovie é um banco de dados que tem como principal objetivo armazenar as informações de aluguéis e de desempenho dos filmes alugados pelo serviço de streaming da empresa ao longo do período. Esse banco de dados é composto por 5 tabelas: alugueis, atores, atuacoes, clientes, filmes. 
+
+
+
+#Analisando os dados:
+
 SELECT * FROM alugueis;
 SELECT * FROM atores;
 SELECT * FROM atuacoes;
